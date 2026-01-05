@@ -1,0 +1,8 @@
+pandas
+numpy
+astral
+soundfile
+pyyaml
+tqdm
+tzdata
+# birdnetlib (kommt später dazu)

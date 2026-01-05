@@ -1,0 +1,28 @@
+paths:
+  audio_dir: "D:/Samsung SSD 850 EVO extern/wmv"
+  inventory_csv: "outputs/inventory.csv"
+  qc_inventory_csv: "logs/qc_inventory_anomalies.csv"
+  sun_events_csv: "outputs/sun_events.csv"
+  pipeline_log: "logs/pipeline.log"
+
+scan:
+  filename_regex: "^(?P<rec>[^_]+)_(?P<date>\\d{8})_(?P<time>\\d{6})\\.wav$"
+
+session_rules:
+  morning_hours: [3, 11]
+  evening_hours: [15, 23]
+
+birdnet_week48:
+  enabled: true
+
+sun_checks:
+  tolerance_min: 10
+  allowed_slot_min: [-120, -60, 0, 60, 120]
+  enable_join_sun_events: false
+
+output:
+  write_parquet: false
+
+location:
+  latitude: 51.32
+  longitude: 6.78

@@ -1,0 +1,18 @@
+# Python Müll
+__pycache__/
+*.py[cod]
+
+# Betriebssystem Müll
+.DS_Store
+Thumbs.db
+
+# Deine Daten (NICHT hochladen!)
+outputs/
+logs/
+data/
+*.WAV
+*.wav
+
+# IDE Einstellungen (VS Code etc.)
+.vscode/
+.idea/

@@ -1,0 +1,513 @@
+input,start_time,end_time,species_name,confidence
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:03.00","00:00:06.00","Myadestes occidentalis_Brown-backed Solitaire",0.330011
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:04.00","00:00:07.00","Myadestes occidentalis_Brown-backed Solitaire",0.362924
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:08.00","00:00:11.00","Myadestes occidentalis_Brown-backed Solitaire",0.167974
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:26.00","00:00:29.00","Campylorhamphus falcularius_Black-billed Scythebill",0.226040
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:27.00","00:00:30.00","Campylorhamphus falcularius_Black-billed Scythebill",0.248417
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:28.00","00:00:31.00","Chamaea fasciata_Wrentit",0.131701
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:30.00","00:00:33.00","Palmeria dolei_Akohekohe",0.155937
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:31.00","00:00:34.00","Palmeria dolei_Akohekohe",0.271174
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:32.00","00:00:35.00","Palmeria dolei_Akohekohe",0.194155
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:37.00","00:00:40.00","Rhopornis ardesiacus_Slender Antbird",0.165964
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:38.00","00:00:41.00","Pseudonestor xanthophrys_Maui Parrotbill",0.484100
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:38.00","00:00:41.00","Palmeria dolei_Akohekohe",0.176655
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:39.00","00:00:42.00","Pseudonestor xanthophrys_Maui Parrotbill",0.528860
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:39.00","00:00:42.00","Palmeria dolei_Akohekohe",0.274072
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:40.00","00:00:43.00","Pseudonestor xanthophrys_Maui Parrotbill",0.234647
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:40.00","00:00:43.00","Palmeria dolei_Akohekohe",0.103223
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:41.00","00:00:44.00","Vireo gilvus_Warbling Vireo",0.106692
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:00:50.00","00:00:53.00","Sitta europaea_Eurasian Nuthatch",0.170601
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:01.00","00:01:04.00","Turdus cardis_Japanese Thrush",0.108834
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:02.00","00:01:05.00","Turdus cardis_Japanese Thrush",0.166571
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:03.00","00:01:06.00","Phoenicurus phoenicurus_Common Redstart",0.179690
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:12.00","00:01:15.00","Myadestes occidentalis_Brown-backed Solitaire",0.119544
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:25.00","00:01:28.00","Palmeria dolei_Akohekohe",0.161892
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:35.00","00:01:38.00","Palmeria dolei_Akohekohe",0.155735
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:36.00","00:01:39.00","Palmeria dolei_Akohekohe",0.132627
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:37.00","00:01:40.00","Palmeria dolei_Akohekohe",0.164798
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:38.00","00:01:41.00","Palmeria dolei_Akohekohe",0.188342
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:38.00","00:01:41.00","Pseudonestor xanthophrys_Maui Parrotbill",0.114184
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:41.00","00:01:44.00","Rhopornis ardesiacus_Slender Antbird",0.106609
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:42.00","00:01:45.00","Brachyramphus marmoratus_Marbled Murrelet",0.765640
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:42.00","00:01:45.00","Milvus milvus_Red Kite",0.187475
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:42.00","00:01:45.00","Buteo jamaicensis_Red-tailed Hawk",0.161420
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:43.00","00:01:46.00","Brachyramphus marmoratus_Marbled Murrelet",0.153057
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:48.00","00:01:51.00","Brachyramphus marmoratus_Marbled Murrelet",0.151211
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:52.00","00:01:55.00","Palmeria dolei_Akohekohe",0.182511
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:01:52.00","00:01:55.00","Pseudonestor xanthophrys_Maui Parrotbill",0.160889
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:01.00","00:02:04.00","Palmeria dolei_Akohekohe",0.147672
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:23.00","00:02:26.00","Palmeria dolei_Akohekohe",0.221209
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:24.00","00:02:27.00","Palmeria dolei_Akohekohe",0.126294
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:28.00","00:02:31.00","Brachyramphus marmoratus_Marbled Murrelet",0.167674
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:31.00","00:02:34.00","Brachyramphus marmoratus_Marbled Murrelet",0.808931
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:44.00","00:02:47.00","Certhia brachydactyla_Short-toed Treecreeper",0.108911
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:45.00","00:02:48.00","Certhia brachydactyla_Short-toed Treecreeper",0.119771
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:02:57.00","00:03:00.00","Palmeria dolei_Akohekohe",0.112591
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:01.00","00:03:04.00","Pseudonestor xanthophrys_Maui Parrotbill",0.208928
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:04.00","00:03:07.00","Palmeria dolei_Akohekohe",0.103827
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:08.00","00:03:11.00","Palmeria dolei_Akohekohe",0.103310
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:09.00","00:03:12.00","Palmeria dolei_Akohekohe",0.147778
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:10.00","00:03:13.00","Palmeria dolei_Akohekohe",0.320964
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:15.00","00:03:18.00","Palmeria dolei_Akohekohe",0.126756
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:17.00","00:03:20.00","Pseudonestor xanthophrys_Maui Parrotbill",0.199162
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:17.00","00:03:20.00","Palmeria dolei_Akohekohe",0.136117
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:18.00","00:03:21.00","Pseudonestor xanthophrys_Maui Parrotbill",0.129517
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:19.00","00:03:22.00","Pseudonestor xanthophrys_Maui Parrotbill",0.115962
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:35.00","00:03:38.00","Myadestes occidentalis_Brown-backed Solitaire",0.456284
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:43.00","00:03:46.00","Turdus cardis_Japanese Thrush",0.106648
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:47.00","00:03:50.00","Buteo lineatus_Red-shouldered Hawk",0.222567
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:47.00","00:03:50.00","Pernis ptilorhynchus_Oriental Honey-buzzard",0.116326
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:48.00","00:03:51.00","Buteo lineatus_Red-shouldered Hawk",0.153962
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:49.00","00:03:52.00","Palmeria dolei_Akohekohe",0.658874
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:49.00","00:03:52.00","Pseudonestor xanthophrys_Maui Parrotbill",0.295318
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:50.00","00:03:53.00","Palmeria dolei_Akohekohe",0.417962
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:50.00","00:03:53.00","Pseudonestor xanthophrys_Maui Parrotbill",0.140665
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:51.00","00:03:54.00","Palmeria dolei_Akohekohe",0.286157
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:54.00","00:03:57.00","Pseudonestor xanthophrys_Maui Parrotbill",0.149969
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:54.00","00:03:57.00","Palmeria dolei_Akohekohe",0.121747
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:55.00","00:03:58.00","Palmeria dolei_Akohekohe",0.197956
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:03:55.00","00:03:58.00","Pseudonestor xanthophrys_Maui Parrotbill",0.131358
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:02.00","00:04:05.00","Myadestes occidentalis_Brown-backed Solitaire",0.205273
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:03.00","00:04:06.00","Myadestes occidentalis_Brown-backed Solitaire",0.198617
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:08.00","00:04:11.00","Palmeria dolei_Akohekohe",0.486099
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:08.00","00:04:11.00","Pseudonestor xanthophrys_Maui Parrotbill",0.167974
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:09.00","00:04:12.00","Palmeria dolei_Akohekohe",0.576842
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:10.00","00:04:13.00","Palmeria dolei_Akohekohe",0.203241
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:10.00","00:04:13.00","Pseudonestor xanthophrys_Maui Parrotbill",0.102081
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:12.00","00:04:15.00","Pseudonestor xanthophrys_Maui Parrotbill",0.179703
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:12.00","00:04:15.00","Palmeria dolei_Akohekohe",0.128431
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:17.00","00:04:20.00","Palmeria dolei_Akohekohe",0.163210
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:18.00","00:04:21.00","Palmeria dolei_Akohekohe",0.173371
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:27.00","00:04:30.00","Palmeria dolei_Akohekohe",0.286140
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:28.00","00:04:31.00","Palmeria dolei_Akohekohe",0.168187
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:34.00","00:04:37.00","Myadestes occidentalis_Brown-backed Solitaire",0.114091
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:44.00","00:04:47.00","Setophaga occidentalis_Hermit Warbler",0.136916
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:56.00","00:04:59.00","Palmeria dolei_Akohekohe",0.221501
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:04:57.00","00:05:00.00","Palmeria dolei_Akohekohe",0.161243
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:02.00","00:05:05.00","Palmeria dolei_Akohekohe",0.165348
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:03.00","00:05:06.00","Palmeria dolei_Akohekohe",0.177165
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:09.00","00:05:12.00","Myadestes occidentalis_Brown-backed Solitaire",0.117235
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:23.00","00:05:26.00","Ficedula albicollis_Collared Flycatcher",0.115130
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:39.00","00:05:42.00","Buteo lineatus_Red-shouldered Hawk",0.136030
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:46.00","00:05:49.00","Ficedula albicollis_Collared Flycatcher",0.124962
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:46.00","00:05:49.00","Larvivora akahige_Japanese Robin",0.100404
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:47.00","00:05:50.00","Ficedula albicollis_Collared Flycatcher",0.267994
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:50.00","00:05:53.00","Muscicapa dauurica_Asian Brown Flycatcher",0.100733
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:05:51.00","00:05:54.00","Myadestes occidentalis_Brown-backed Solitaire",0.101563
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:01.00","00:06:04.00","Myadestes occidentalis_Brown-backed Solitaire",0.319199
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:14.00","00:06:17.00","Hippolais icterina_Icterine Warbler",0.211348
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:27.00","00:06:30.00","Palmeria dolei_Akohekohe",0.325142
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:28.00","00:06:31.00","Palmeria dolei_Akohekohe",0.321867
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:33.00","00:06:36.00","Brachyramphus marmoratus_Marbled Murrelet",0.507599
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:36.00","00:06:39.00","Myadestes occidentalis_Brown-backed Solitaire",0.117565
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:37.00","00:06:40.00","Myadestes occidentalis_Brown-backed Solitaire",0.127542
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:41.00","00:06:44.00","Ficedula albicollis_Collared Flycatcher",0.225548
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:41.00","00:06:44.00","Certhia brachydactyla_Short-toed Treecreeper",0.149432
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:42.00","00:06:45.00","Certhia brachydactyla_Short-toed Treecreeper",0.123604
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:43.00","00:06:46.00","Certhia brachydactyla_Short-toed Treecreeper",0.293131
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:44.00","00:06:47.00","Certhia brachydactyla_Short-toed Treecreeper",0.147759
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:46.00","00:06:49.00","Melozone crissalis_California Towhee",0.266302
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:53.00","00:06:56.00","Larvivora akahige_Japanese Robin",0.418435
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:06:55.00","00:06:58.00","Myadestes occidentalis_Brown-backed Solitaire",0.189106
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:13.00","00:07:16.00","Turdus cardis_Japanese Thrush",0.101163
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:14.00","00:07:17.00","Palmeria dolei_Akohekohe",0.551384
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:15.00","00:07:18.00","Palmeria dolei_Akohekohe",0.301599
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:16.00","00:07:19.00","Burhinus oedicnemus_Eurasian Thick-knee",0.109344
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:20.00","00:07:23.00","Lonchura punctulata_Scaly-breasted Munia",0.147594
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:21.00","00:07:24.00","Brachyramphus marmoratus_Marbled Murrelet",0.356175
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:23.00","00:07:26.00","Palmeria dolei_Akohekohe",0.117180
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:25.00","00:07:28.00","Palmeria dolei_Akohekohe",0.159311
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:39.00","00:07:42.00","Myadestes occidentalis_Brown-backed Solitaire",0.107961
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:07:49.00","00:07:52.00","Vermivora chrysoptera_Golden-winged Warbler",0.103671
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:03.00","00:08:06.00","Palmeria dolei_Akohekohe",0.193411
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:03.00","00:08:06.00","Pseudonestor xanthophrys_Maui Parrotbill",0.158234
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:19.00","00:08:22.00","Myadestes occidentalis_Brown-backed Solitaire",0.124475
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:23.00","00:08:26.00","Palmeria dolei_Akohekohe",0.113040
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:42.00","00:08:45.00","Palmeria dolei_Akohekohe",0.135283
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:43.00","00:08:46.00","Myadestes occidentalis_Brown-backed Solitaire",0.456272
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:44.00","00:08:47.00","Myadestes occidentalis_Brown-backed Solitaire",0.167095
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:57.00","00:09:00.00","Pseudonestor xanthophrys_Maui Parrotbill",0.204600
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:57.00","00:09:00.00","Palmeria dolei_Akohekohe",0.102081
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:58.00","00:09:01.00","Ficedula albicollis_Collared Flycatcher",0.120157
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:08:59.00","00:09:02.00","Ficedula albicollis_Collared Flycatcher",0.185886
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:00.00","00:09:03.00","Brachyramphus marmoratus_Marbled Murrelet",0.154585
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:04.00","00:09:07.00","Palmeria dolei_Akohekohe",0.112345
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:05.00","00:09:08.00","Palmeria dolei_Akohekohe",0.136183
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:06.00","00:09:09.00","Drymophila klagesi_Klages's Antbird",0.169646
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:22.00","00:09:25.00","Turdus cardis_Japanese Thrush",0.217001
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:23.00","00:09:26.00","Turdus cardis_Japanese Thrush",0.198134
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:32.00","00:09:35.00","Palmeria dolei_Akohekohe",0.179584
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:46.00","00:09:49.00","Ficedula albicollis_Collared Flycatcher",0.381264
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:47.00","00:09:50.00","Pseudonestor xanthophrys_Maui Parrotbill",0.275104
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:48.00","00:09:51.00","Pseudonestor xanthophrys_Maui Parrotbill",0.231619
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:48.00","00:09:51.00","Palmeria dolei_Akohekohe",0.145687
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:49.00","00:09:52.00","Pseudonestor xanthophrys_Maui Parrotbill",0.366277
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:53.00","00:09:56.00","Myadestes occidentalis_Brown-backed Solitaire",0.171805
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:09:54.00","00:09:57.00","Myadestes occidentalis_Brown-backed Solitaire",0.201685
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:06.00","00:10:09.00","Myadestes occidentalis_Brown-backed Solitaire",0.136704
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:13.00","00:10:16.00","Palmeria dolei_Akohekohe",0.228979
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:13.00","00:10:16.00","Pseudonestor xanthophrys_Maui Parrotbill",0.112642
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:14.00","00:10:17.00","Palmeria dolei_Akohekohe",0.405864
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:14.00","00:10:17.00","Pseudonestor xanthophrys_Maui Parrotbill",0.139783
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:18.00","00:10:21.00","Hylophilus flavipes_Scrub Greenlet",0.112030
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:21.00","00:10:24.00","Pseudonestor xanthophrys_Maui Parrotbill",0.102236
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:10:57.00","00:11:00.00","Brachyramphus marmoratus_Marbled Murrelet",0.296145
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:02.00","00:11:05.00","Ficedula albicollis_Collared Flycatcher",0.135812
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:03.00","00:11:06.00","Ficedula albicollis_Collared Flycatcher",0.209324
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:23.00","00:11:26.00","Myadestes occidentalis_Brown-backed Solitaire",0.110321
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:27.00","00:11:30.00","Picus viridis_Eurasian Green Woodpecker",0.170116
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:27.00","00:11:30.00","Turdus cardis_Japanese Thrush",0.160758
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:27.00","00:11:30.00","Hieraaetus pennatus_Booted Eagle",0.126058
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:28.00","00:11:31.00","Turdus cardis_Japanese Thrush",0.413002
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:28.00","00:11:31.00","Hippolais icterina_Icterine Warbler",0.130246
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:28.00","00:11:31.00","Turdus simillimus_Indian Blackbird",0.110282
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:29.00","00:11:32.00","Turdus cardis_Japanese Thrush",0.454273
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:37.00","00:11:40.00","Muscicapa dauurica_Asian Brown Flycatcher",0.150445
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:41.00","00:11:44.00","Buteo lineatus_Red-shouldered Hawk",0.353558
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:41.00","00:11:44.00","Setophaga castanea_Bay-breasted Warbler",0.130629
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:42.00","00:11:45.00","Buteo lineatus_Red-shouldered Hawk",0.498909
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:48.00","00:11:51.00","Ficedula albicollis_Collared Flycatcher",0.158064
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:11:57.00","00:12:00.00","Mniotilta varia_Black-and-white Warbler",0.157624
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:03.00","00:12:06.00","Pseudonestor xanthophrys_Maui Parrotbill",0.277785
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:03.00","00:12:06.00","Palmeria dolei_Akohekohe",0.189399
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:10.00","00:12:13.00","Turdus iliacus_Redwing",0.100252
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:12.00","00:12:15.00","Muscicapa dauurica_Asian Brown Flycatcher",0.173111
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:12.00","00:12:15.00","Palmeria dolei_Akohekohe",0.160734
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:18.00","00:12:21.00","Certhia brachydactyla_Short-toed Treecreeper",0.109759
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:28.00","00:12:31.00","Myadestes occidentalis_Brown-backed Solitaire",0.222612
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:41.00","00:12:44.00","Myadestes occidentalis_Brown-backed Solitaire",0.115388
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:46.00","00:12:49.00","Brachyramphus marmoratus_Marbled Murrelet",0.167968
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:47.00","00:12:50.00","Brachyramphus marmoratus_Marbled Murrelet",0.601183
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:12:50.00","00:12:53.00","Ficedula albicollis_Collared Flycatcher",0.121678
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:04.00","00:13:07.00","Myadestes occidentalis_Brown-backed Solitaire",0.105431
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:09.00","00:13:12.00","Bambusicola thoracicus_Chinese Bamboo-Partridge",0.124785
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:11.00","00:13:14.00","Dryocopus martius_Black Woodpecker",0.585242
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:13.00","00:13:16.00","Pandion haliaetus_Osprey",0.176963
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:22.00","00:13:25.00","Myadestes occidentalis_Brown-backed Solitaire",0.153398
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:24.00","00:13:27.00","Turdus iliacus_Redwing",0.185742
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:25.00","00:13:28.00","Turdus philomelos_Song Thrush",0.162751
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:26.00","00:13:29.00","Turdus philomelos_Song Thrush",0.549160
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:27.00","00:13:30.00","Turdus philomelos_Song Thrush",0.172130
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:27.00","00:13:30.00","Burhinus oedicnemus_Eurasian Thick-knee",0.106214
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:28.00","00:13:31.00","Burhinus oedicnemus_Eurasian Thick-knee",0.106236
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:29.00","00:13:32.00","Turdus philomelos_Song Thrush",0.144818
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:30.00","00:13:33.00","Turdus cardis_Japanese Thrush",0.120775
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:40.00","00:13:43.00","Hieraaetus pennatus_Booted Eagle",0.379998
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:40.00","00:13:43.00","Turdus cardis_Japanese Thrush",0.303929
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:40.00","00:13:43.00","Cyanoptila cyanomelana_Blue-and-white Flycatcher",0.166332
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:41.00","00:13:44.00","Hieraaetus pennatus_Booted Eagle",0.343767
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:41.00","00:13:44.00","Turdus cardis_Japanese Thrush",0.177729
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:42.00","00:13:45.00","Hieraaetus pennatus_Booted Eagle",0.428105
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:51.00","00:13:54.00","Scolopax rusticola_Eurasian Woodcock",0.104685
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:52.00","00:13:55.00","Botaurus stellaris_Great Bittern",0.141673
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:56.00","00:13:59.00","Brachyramphus marmoratus_Marbled Murrelet",0.199333
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:13:57.00","00:14:00.00","Sclerurus albigularis_Gray-throated Leaftosser",0.101203
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:01.00","00:14:04.00","Turdus cardis_Japanese Thrush",0.183389
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:03.00","00:14:06.00","Vermivora cyanoptera_Blue-winged Warbler",0.122052
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:11.00","00:14:14.00","Muscicapa dauurica_Asian Brown Flycatcher",0.129988
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:12.00","00:14:15.00","Myadestes occidentalis_Brown-backed Solitaire",0.150557
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:12.00","00:14:15.00","Vermivora chrysoptera_Golden-winged Warbler",0.120483
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:24.00","00:14:27.00","Ficedula albicollis_Collared Flycatcher",0.127721
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:25.00","00:14:28.00","Ficedula albicollis_Collared Flycatcher",0.165646
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:27.00","00:14:30.00","Ficedula albicollis_Collared Flycatcher",0.101031
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:47.00","00:14:50.00","Brachyramphus marmoratus_Marbled Murrelet",0.109519
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:49.00","00:14:52.00","Muscicapa dauurica_Asian Brown Flycatcher",0.184152
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:50.00","00:14:53.00","Muscicapa dauurica_Asian Brown Flycatcher",0.272388
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:50.00","00:14:53.00","Turdus cardis_Japanese Thrush",0.179479
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:14:52.00","00:14:55.00","Brachyramphus marmoratus_Marbled Murrelet",0.100225
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:22.00","00:15:25.00","Myadestes occidentalis_Brown-backed Solitaire",0.182651
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:23.00","00:15:26.00","Muscicapa dauurica_Asian Brown Flycatcher",0.196052
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:24.00","00:15:27.00","Myadestes occidentalis_Brown-backed Solitaire",0.355064
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:25.00","00:15:28.00","Pandion haliaetus_Osprey",0.111211
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:30.00","00:15:33.00","Turdus philomelos_Song Thrush",0.114751
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:37.00","00:15:40.00","Myadestes occidentalis_Brown-backed Solitaire",0.312696
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:38.00","00:15:41.00","Myadestes occidentalis_Brown-backed Solitaire",0.156530
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:42.00","00:15:45.00","Buteo lineatus_Red-shouldered Hawk",0.106419
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:45.00","00:15:48.00","Myadestes occidentalis_Brown-backed Solitaire",0.211579
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:50.00","00:15:53.00","Muscicapa dauurica_Asian Brown Flycatcher",0.102963
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:15:53.00","00:15:56.00","Myadestes occidentalis_Brown-backed Solitaire",0.298648
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:05.00","00:16:08.00","Atrichornis rufescens_Rufous Scrub-bird",0.102004
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:08.00","00:16:11.00","Palmeria dolei_Akohekohe",0.121109
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:10.00","00:16:13.00","Ficedula albicollis_Collared Flycatcher",0.188281
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:13.00","00:16:16.00","Tetrastes bonasia_Hazel Grouse",0.206583
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:19.00","00:16:22.00","Vermivora chrysoptera_Golden-winged Warbler",0.144170
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:22.00","00:16:25.00","Myadestes occidentalis_Brown-backed Solitaire",0.173669
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:22.00","00:16:25.00","Ficedula albicollis_Collared Flycatcher",0.108272
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:23.00","00:16:26.00","Myadestes occidentalis_Brown-backed Solitaire",0.178973
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:25.00","00:16:28.00","Scolopax rusticola_Eurasian Woodcock",0.139065
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:26.00","00:16:29.00","Palmeria dolei_Akohekohe",0.143021
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:37.00","00:16:40.00","Turdus philomelos_Song Thrush",0.106969
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:39.00","00:16:42.00","Ficedula albicollis_Collared Flycatcher",0.173734
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:39.00","00:16:42.00","Palmeria dolei_Akohekohe",0.132204
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:41.00","00:16:44.00","Turdus cardis_Japanese Thrush",0.297531
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:16:45.00","00:16:48.00","Bombycilla cedrorum_Cedar Waxwing",0.109757
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:01.00","00:17:04.00","Scolopax rusticola_Eurasian Woodcock",0.109854
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:02.00","00:17:05.00","Ficedula albicollis_Collared Flycatcher",0.128695
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:04.00","00:17:07.00","Ficedula albicollis_Collared Flycatcher",0.132808
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:06.00","00:17:09.00","Ficedula albicollis_Collared Flycatcher",0.110784
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:08.00","00:17:11.00","Sialia currucoides_Mountain Bluebird",0.195752
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:08.00","00:17:11.00","Scolopax rusticola_Eurasian Woodcock",0.115765
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:09.00","00:17:12.00","Ficedula albicollis_Collared Flycatcher",0.109076
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:20.00","00:17:23.00","Palmeria dolei_Akohekohe",0.129835
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:21.00","00:17:24.00","Palmeria dolei_Akohekohe",0.372415
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:23.00","00:17:26.00","Buteo lineatus_Red-shouldered Hawk",0.157675
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:32.00","00:17:35.00","Ficedula albicollis_Collared Flycatcher",0.102213
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:33.00","00:17:36.00","Ficedula albicollis_Collared Flycatcher",0.105485
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:38.00","00:17:41.00","Turdus philomelos_Song Thrush",0.151177
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:40.00","00:17:43.00","Myadestes occidentalis_Brown-backed Solitaire",0.119368
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:17:41.00","00:17:44.00","Myadestes occidentalis_Brown-backed Solitaire",0.147036
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:05.00","00:18:08.00","Myadestes occidentalis_Brown-backed Solitaire",0.120315
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:07.00","00:18:10.00","Myadestes occidentalis_Brown-backed Solitaire",0.404454
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:12.00","00:18:15.00","Palmeria dolei_Akohekohe",0.170465
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:12.00","00:18:15.00","Pseudonestor xanthophrys_Maui Parrotbill",0.102680
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:13.00","00:18:16.00","Palmeria dolei_Akohekohe",0.117198
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:14.00","00:18:17.00","Palmeria dolei_Akohekohe",0.135981
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:35.00","00:18:38.00","Phoenicurus phoenicurus_Common Redstart",0.103636
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:42.00","00:18:45.00","Scolopax rusticola_Eurasian Woodcock",0.262583
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:43.00","00:18:46.00","Phoenicurus phoenicurus_Common Redstart",0.110799
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:44.00","00:18:47.00","Phoenicurus phoenicurus_Common Redstart",0.103352
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:45.00","00:18:48.00","Palmeria dolei_Akohekohe",0.140484
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:50.00","00:18:53.00","Ficedula albicollis_Collared Flycatcher",0.153699
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:51.00","00:18:54.00","Ficedula albicollis_Collared Flycatcher",0.149848
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:18:55.00","00:18:58.00","Scolopax rusticola_Eurasian Woodcock",0.123277
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:00.00","00:19:03.00","Pseudonestor xanthophrys_Maui Parrotbill",0.193045
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:00.00","00:19:03.00","Loxops mana_Hawaii Creeper",0.181984
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:03.00","00:19:06.00","Palmeria dolei_Akohekohe",0.200561
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:06.00","00:19:09.00","Ficedula albicollis_Collared Flycatcher",0.140227
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:09.00","00:19:12.00","Myadestes occidentalis_Brown-backed Solitaire",0.307026
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:18.00","00:19:21.00","Ficedula albicollis_Collared Flycatcher",0.122328
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:19.00","00:19:22.00","Myadestes occidentalis_Brown-backed Solitaire",0.268204
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:20.00","00:19:23.00","Myadestes occidentalis_Brown-backed Solitaire",0.323949
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:21.00","00:19:24.00","Hieraaetus pennatus_Booted Eagle",0.160733
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:22.00","00:19:25.00","Myadestes occidentalis_Brown-backed Solitaire",0.210142
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:26.00","00:19:29.00","Oriolus oriolus_Eurasian Golden Oriole",0.102485
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:29.00","00:19:32.00","Palmeria dolei_Akohekohe",0.278434
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:30.00","00:19:33.00","Palmeria dolei_Akohekohe",0.345526
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:31.00","00:19:34.00","Palmeria dolei_Akohekohe",0.449164
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:34.00","00:19:37.00","Muscicapa dauurica_Asian Brown Flycatcher",0.139560
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:35.00","00:19:38.00","Muscicapa dauurica_Asian Brown Flycatcher",0.514587
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:36.00","00:19:39.00","Muscicapa dauurica_Asian Brown Flycatcher",0.157212
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:38.00","00:19:41.00","Myadestes occidentalis_Brown-backed Solitaire",0.122762
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:47.00","00:19:50.00","Muscicapa dauurica_Asian Brown Flycatcher",0.201332
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:48.00","00:19:51.00","Dromococcyx pavoninus_Pavonine Cuckoo",0.224971
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:49.00","00:19:52.00","Turdus leucops_Pale-eyed Thrush",0.109080
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:53.00","00:19:56.00","Scolopax rusticola_Eurasian Woodcock",0.130959
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:54.00","00:19:57.00","Palmeria dolei_Akohekohe",0.135391
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:54.00","00:19:57.00","Hippolais icterina_Icterine Warbler",0.122409
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:19:59.00","00:20:02.00","Bombycilla cedrorum_Cedar Waxwing",0.292977
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:02.00","00:20:05.00","Ficedula albicollis_Collared Flycatcher",0.125795
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:13.00","00:20:16.00","Hippolais icterina_Icterine Warbler",0.105870
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:17.00","00:20:20.00","Turdus philomelos_Song Thrush",0.103442
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:28.00","00:20:31.00","Ficedula albicollis_Collared Flycatcher",0.267388
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:30.00","00:20:33.00","Muscicapa dauurica_Asian Brown Flycatcher",0.350414
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:31.00","00:20:34.00","Muscicapa dauurica_Asian Brown Flycatcher",0.124539
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:32.00","00:20:35.00","Coccothraustes coccothraustes_Hawfinch",0.136361
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:36.00","00:20:39.00","Colibri cyanotus_Lesser Violetear",0.152532
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:36.00","00:20:39.00","Vireo leucophrys_Brown-capped Vireo",0.131450
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:44.00","00:20:47.00","Myadestes occidentalis_Brown-backed Solitaire",0.105445
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:45.00","00:20:48.00","Myadestes occidentalis_Brown-backed Solitaire",0.110073
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:46.00","00:20:49.00","Brachyramphus marmoratus_Marbled Murrelet",0.169284
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:54.00","00:20:57.00","Palmeria dolei_Akohekohe",0.190661
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:54.00","00:20:57.00","Pseudonestor xanthophrys_Maui Parrotbill",0.128763
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:57.00","00:21:00.00","Pseudonestor xanthophrys_Maui Parrotbill",0.285903
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:20:57.00","00:21:00.00","Palmeria dolei_Akohekohe",0.112752
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:07.00","00:21:10.00","Ficedula albicollis_Collared Flycatcher",0.252125
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:07.00","00:21:10.00","Oriolus oriolus_Eurasian Golden Oriole",0.130001
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:10.00","00:21:13.00","Turdus cardis_Japanese Thrush",0.280607
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:11.00","00:21:14.00","Turdus cardis_Japanese Thrush",0.174578
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:18.00","00:21:21.00","Ficedula albicollis_Collared Flycatcher",0.254134
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:25.00","00:21:28.00","Carduelis carduelis_European Goldfinch",0.129009
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:27.00","00:21:30.00","Ficedula albicollis_Collared Flycatcher",0.177067
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:28.00","00:21:31.00","Hippolais icterina_Icterine Warbler",0.490440
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:31.00","00:21:34.00","Muscicapa dauurica_Asian Brown Flycatcher",0.110681
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:58.00","00:22:01.00","Ficedula albicollis_Collared Flycatcher",0.146309
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:21:59.00","00:22:02.00","Ficedula albicollis_Collared Flycatcher",0.330034
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:00.00","00:22:03.00","Ficedula albicollis_Collared Flycatcher",0.202957
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:00.00","00:22:03.00","Phoenicurus phoenicurus_Common Redstart",0.174392
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:01.00","00:22:04.00","Palmeria dolei_Akohekohe",0.382997
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:02.00","00:22:05.00","Vireo flavifrons_Yellow-throated Vireo",0.117594
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:02.00","00:22:05.00","Palmeria dolei_Akohekohe",0.103630
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:12.00","00:22:15.00","Melozone crissalis_California Towhee",0.400213
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:16.00","00:22:19.00","Palmeria dolei_Akohekohe",0.415231
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:19.00","00:22:22.00","Muscicapa dauurica_Asian Brown Flycatcher",0.171995
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:22.00","00:22:25.00","Ficedula albicollis_Collared Flycatcher",0.132310
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:24.00","00:22:27.00","Ficedula albicollis_Collared Flycatcher",0.189832
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:29.00","00:22:32.00","Scolopax rusticola_Eurasian Woodcock",0.133940
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:34.00","00:22:37.00","Myadestes occidentalis_Brown-backed Solitaire",0.159826
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:42.00","00:22:45.00","Myadestes occidentalis_Brown-backed Solitaire",0.352077
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:49.00","00:22:52.00","Palmeria dolei_Akohekohe",0.207843
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:50.00","00:22:53.00","Palmeria dolei_Akohekohe",0.504074
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:50.00","00:22:53.00","Pseudonestor xanthophrys_Maui Parrotbill",0.204626
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:51.00","00:22:54.00","Palmeria dolei_Akohekohe",0.613909
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:51.00","00:22:54.00","Pseudonestor xanthophrys_Maui Parrotbill",0.197430
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:52.00","00:22:55.00","Myadestes occidentalis_Brown-backed Solitaire",0.242156
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:57.00","00:23:00.00","Myadestes occidentalis_Brown-backed Solitaire",0.315383
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:58.00","00:23:01.00","Myadestes occidentalis_Brown-backed Solitaire",0.284321
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:22:59.00","00:23:02.00","Palmeria dolei_Akohekohe",0.262298
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:01.00","00:23:04.00","Palmeria dolei_Akohekohe",0.111206
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:04.00","00:23:07.00","Palmeria dolei_Akohekohe",0.177057
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:05.00","00:23:08.00","Palmeria dolei_Akohekohe",0.170377
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:06.00","00:23:09.00","Palmeria dolei_Akohekohe",0.115055
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:07.00","00:23:10.00","Myadestes occidentalis_Brown-backed Solitaire",0.490412
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:12.00","00:23:15.00","Myadestes occidentalis_Brown-backed Solitaire",0.200283
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:13.00","00:23:16.00","Myadestes occidentalis_Brown-backed Solitaire",0.111625
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:15.00","00:23:18.00","Myadestes occidentalis_Brown-backed Solitaire",0.337420
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:16.00","00:23:19.00","Myadestes occidentalis_Brown-backed Solitaire",0.204761
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:17.00","00:23:20.00","Myadestes occidentalis_Brown-backed Solitaire",0.204574
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:31.00","00:23:34.00","Palmeria dolei_Akohekohe",0.299084
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:32.00","00:23:35.00","Palmeria dolei_Akohekohe",0.164349
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:35.00","00:23:38.00","Myadestes occidentalis_Brown-backed Solitaire",0.117830
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:36.00","00:23:39.00","Pseudonestor xanthophrys_Maui Parrotbill",0.116073
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:37.00","00:23:40.00","Myadestes occidentalis_Brown-backed Solitaire",0.359432
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:37.00","00:23:40.00","Pseudonestor xanthophrys_Maui Parrotbill",0.164450
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:38.00","00:23:41.00","Pseudonestor xanthophrys_Maui Parrotbill",0.189712
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:38.00","00:23:41.00","Palmeria dolei_Akohekohe",0.175149
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:39.00","00:23:42.00","Palmeria dolei_Akohekohe",0.234137
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:40.00","00:23:43.00","Palmeria dolei_Akohekohe",0.373083
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:41.00","00:23:44.00","Palmeria dolei_Akohekohe",0.125780
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:43.00","00:23:46.00","Larvivora akahige_Japanese Robin",0.117171
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:47.00","00:23:50.00","Ficedula albicollis_Collared Flycatcher",0.133174
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:48.00","00:23:51.00","Ficedula albicollis_Collared Flycatcher",0.148632
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:49.00","00:23:52.00","Ficedula albicollis_Collared Flycatcher",0.101351
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:50.00","00:23:53.00","Myadestes occidentalis_Brown-backed Solitaire",0.282027
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:51.00","00:23:54.00","Myadestes occidentalis_Brown-backed Solitaire",0.101944
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:52.00","00:23:55.00","Myadestes occidentalis_Brown-backed Solitaire",0.134195
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:53.00","00:23:56.00","Myadestes occidentalis_Brown-backed Solitaire",0.217124
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:54.00","00:23:57.00","Palmeria dolei_Akohekohe",0.121417
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:57.00","00:24:00.00","Palmeria dolei_Akohekohe",0.183845
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:23:58.00","00:24:01.00","Palmeria dolei_Akohekohe",0.148035
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:02.00","00:24:05.00","Ficedula albicollis_Collared Flycatcher",0.127163
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:04.00","00:24:07.00","Palmeria dolei_Akohekohe",0.263773
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:04.00","00:24:07.00","Pseudonestor xanthophrys_Maui Parrotbill",0.118804
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:05.00","00:24:08.00","Palmeria dolei_Akohekohe",0.123188
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:06.00","00:24:09.00","Palmeria dolei_Akohekohe",0.108625
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:16.00","00:24:19.00","Palmeria dolei_Akohekohe",0.129681
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:20.00","00:24:23.00","Palmeria dolei_Akohekohe",0.581879
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:20.00","00:24:23.00","Pseudonestor xanthophrys_Maui Parrotbill",0.109309
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:21.00","00:24:24.00","Palmeria dolei_Akohekohe",0.109553
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:22.00","00:24:25.00","Palmeria dolei_Akohekohe",0.191657
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:22.00","00:24:25.00","Pseudonestor xanthophrys_Maui Parrotbill",0.109166
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:23.00","00:24:26.00","Palmeria dolei_Akohekohe",0.138866
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:27.00","00:24:30.00","Palmeria dolei_Akohekohe",0.122683
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:33.00","00:24:36.00","Phoenicurus phoenicurus_Common Redstart",0.225963
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:34.00","00:24:37.00","Phoenicurus phoenicurus_Common Redstart",0.147598
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:37.00","00:24:40.00","Myadestes occidentalis_Brown-backed Solitaire",0.124170
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:39.00","00:24:42.00","Palmeria dolei_Akohekohe",0.109126
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:40.00","00:24:43.00","Palmeria dolei_Akohekohe",0.339298
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:40.00","00:24:43.00","Pseudonestor xanthophrys_Maui Parrotbill",0.112386
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:41.00","00:24:44.00","Palmeria dolei_Akohekohe",0.204668
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:42.00","00:24:45.00","Palmeria dolei_Akohekohe",0.109545
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:43.00","00:24:46.00","Palmeria dolei_Akohekohe",0.115995
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:44.00","00:24:47.00","Palmeria dolei_Akohekohe",0.224867
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:50.00","00:24:53.00","Palmeria dolei_Akohekohe",0.122888
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:50.00","00:24:53.00","Pseudonestor xanthophrys_Maui Parrotbill",0.112587
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:24:54.00","00:24:57.00","Ficedula albicollis_Collared Flycatcher",0.155019
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:02.00","00:25:05.00","Ficedula albicollis_Collared Flycatcher",0.149318
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:04.00","00:25:07.00","Ficedula albicollis_Collared Flycatcher",0.163155
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:05.00","00:25:08.00","Ficedula albicollis_Collared Flycatcher",0.121406
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:05.00","00:25:08.00","Certhia brachydactyla_Short-toed Treecreeper",0.116626
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:07.00","00:25:10.00","Myadestes occidentalis_Brown-backed Solitaire",0.100553
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:09.00","00:25:12.00","Myadestes occidentalis_Brown-backed Solitaire",0.603047
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:10.00","00:25:13.00","Myadestes occidentalis_Brown-backed Solitaire",0.142240
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:10.00","00:25:13.00","Penelopina nigra_Highland Guan",0.128525
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:17.00","00:25:20.00","Palmeria dolei_Akohekohe",0.100239
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:18.00","00:25:21.00","Myadestes occidentalis_Brown-backed Solitaire",0.255063
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:21.00","00:25:24.00","Myadestes occidentalis_Brown-backed Solitaire",0.118134
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:29.00","00:25:32.00","Palmeria dolei_Akohekohe",0.447814
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:38.00","00:25:41.00","Myadestes occidentalis_Brown-backed Solitaire",0.123174
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:39.00","00:25:42.00","Myadestes occidentalis_Brown-backed Solitaire",0.134059
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:45.00","00:25:48.00","Phylloscopus collybita_Common Chiffchaff",0.118376
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:50.00","00:25:53.00","Myadestes occidentalis_Brown-backed Solitaire",0.207505
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:51.00","00:25:54.00","Myadestes occidentalis_Brown-backed Solitaire",0.280028
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:25:58.00","00:26:01.00","Pseudonestor xanthophrys_Maui Parrotbill",0.285587
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:00.00","00:26:03.00","Myadestes occidentalis_Brown-backed Solitaire",0.230412
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:00.00","00:26:03.00","Palmeria dolei_Akohekohe",0.175457
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:01.00","00:26:04.00","Myadestes occidentalis_Brown-backed Solitaire",0.160946
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:02.00","00:26:05.00","Palmeria dolei_Akohekohe",0.105137
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:03.00","00:26:06.00","Myadestes occidentalis_Brown-backed Solitaire",0.244011
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:04.00","00:26:07.00","Myadestes occidentalis_Brown-backed Solitaire",0.218327
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:05.00","00:26:08.00","Palmeria dolei_Akohekohe",0.130906
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:06.00","00:26:09.00","Palmeria dolei_Akohekohe",0.138658
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:20.00","00:26:23.00","Palmeria dolei_Akohekohe",0.198430
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:22.00","00:26:25.00","Palmeria dolei_Akohekohe",0.110702
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:23.00","00:26:26.00","Pseudonestor xanthophrys_Maui Parrotbill",0.200536
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:27.00","00:26:30.00","Myadestes occidentalis_Brown-backed Solitaire",0.152122
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:37.00","00:26:40.00","Pseudonestor xanthophrys_Maui Parrotbill",0.137675
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:47.00","00:26:50.00","Muscicapa dauurica_Asian Brown Flycatcher",0.185349
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:49.00","00:26:52.00","Pseudonestor xanthophrys_Maui Parrotbill",0.108387
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:50.00","00:26:53.00","Palmeria dolei_Akohekohe",0.518265
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:50.00","00:26:53.00","Pseudonestor xanthophrys_Maui Parrotbill",0.394942
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:51.00","00:26:54.00","Palmeria dolei_Akohekohe",0.113597
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:51.00","00:26:54.00","Hippolais icterina_Icterine Warbler",0.102394
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:53.00","00:26:56.00","Ficedula albicollis_Collared Flycatcher",0.147920
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:54.00","00:26:57.00","Muscicapa dauurica_Asian Brown Flycatcher",0.103960
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:26:55.00","00:26:58.00","Muscicapa dauurica_Asian Brown Flycatcher",0.112847
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:00.00","00:27:03.00","Ficedula albicollis_Collared Flycatcher",0.166858
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:02.00","00:27:05.00","Ficedula albicollis_Collared Flycatcher",0.188995
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:12.00","00:27:15.00","Anthus trivialis_Tree Pipit",0.109795
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:12.00","00:27:15.00","Certhia brachydactyla_Short-toed Treecreeper",0.105817
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:18.00","00:27:21.00","Myadestes occidentalis_Brown-backed Solitaire",0.423020
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:21.00","00:27:24.00","Muscicapa dauurica_Asian Brown Flycatcher",0.212036
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:40.00","00:27:43.00","Palmeria dolei_Akohekohe",0.508568
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:41.00","00:27:44.00","Ficedula albicollis_Collared Flycatcher",0.160302
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:41.00","00:27:44.00","Scolopax rusticola_Eurasian Woodcock",0.126502
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:41.00","00:27:44.00","Myadestes occidentalis_Brown-backed Solitaire",0.100534
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:44.00","00:27:47.00","Phoenicurus phoenicurus_Common Redstart",0.105633
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:48.00","00:27:51.00","Myadestes occidentalis_Brown-backed Solitaire",0.176609
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:49.00","00:27:52.00","Ficedula albicollis_Collared Flycatcher",0.128152
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:50.00","00:27:53.00","Palmeria dolei_Akohekohe",0.142053
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:57.00","00:28:00.00","Myadestes occidentalis_Brown-backed Solitaire",0.112586
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:58.00","00:28:01.00","Myadestes occidentalis_Brown-backed Solitaire",0.396140
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:59.00","00:28:02.00","Myadestes occidentalis_Brown-backed Solitaire",0.195188
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:27:59.00","00:28:02.00","Penelopina nigra_Highland Guan",0.112398
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:00.00","00:28:03.00","Parus major_Great Tit",0.103233
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:03.00","00:28:06.00","Myadestes occidentalis_Brown-backed Solitaire",0.117967
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:07.00","00:28:10.00","Ficedula albicollis_Collared Flycatcher",0.199882
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:08.00","00:28:11.00","Ficedula albicollis_Collared Flycatcher",0.122240
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:09.00","00:28:12.00","Dendrocoptes medius_Middle Spotted Woodpecker",0.118112
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:11.00","00:28:14.00","Ficedula albicollis_Collared Flycatcher",0.152894
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:12.00","00:28:15.00","Ficedula albicollis_Collared Flycatcher",0.159628
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:13.00","00:28:16.00","Ficedula albicollis_Collared Flycatcher",0.129533
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:15.00","00:28:18.00","Ficedula albicollis_Collared Flycatcher",0.180220
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:18.00","00:28:21.00","Myadestes occidentalis_Brown-backed Solitaire",0.320443
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:19.00","00:28:22.00","Palmeria dolei_Akohekohe",0.493173
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:20.00","00:28:23.00","Palmeria dolei_Akohekohe",0.127515
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:21.00","00:28:24.00","Pseudonestor xanthophrys_Maui Parrotbill",0.200981
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:22.00","00:28:25.00","Hippolais icterina_Icterine Warbler",0.215209
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:22.00","00:28:25.00","Pseudonestor xanthophrys_Maui Parrotbill",0.103555
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:23.00","00:28:26.00","Pseudonestor xanthophrys_Maui Parrotbill",0.299663
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:23.00","00:28:26.00","Turdus iliacus_Redwing",0.145407
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:24.00","00:28:27.00","Myadestes occidentalis_Brown-backed Solitaire",0.144130
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:24.00","00:28:27.00","Turdus iliacus_Redwing",0.135371
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:24.00","00:28:27.00","Ficedula albicollis_Collared Flycatcher",0.129820
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:40.00","00:28:43.00","Anthus trivialis_Tree Pipit",0.115911
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:41.00","00:28:44.00","Palmeria dolei_Akohekohe",0.185815
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:43.00","00:28:46.00","Palmeria dolei_Akohekohe",0.358311
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:43.00","00:28:46.00","Pseudonestor xanthophrys_Maui Parrotbill",0.104107
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:44.00","00:28:47.00","Myadestes occidentalis_Brown-backed Solitaire",0.290395
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:45.00","00:28:48.00","Pseudonestor xanthophrys_Maui Parrotbill",0.105412
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:46.00","00:28:49.00","Muscicapa dauurica_Asian Brown Flycatcher",0.106027
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:47.00","00:28:50.00","Muscicapa dauurica_Asian Brown Flycatcher",0.105523
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:48.00","00:28:51.00","Ficedula albicollis_Collared Flycatcher",0.226221
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:28:52.00","00:28:55.00","Turdus cardis_Japanese Thrush",0.135632
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:03.00","00:29:06.00","Palmeria dolei_Akohekohe",0.108023
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:07.00","00:29:10.00","Turdus cardis_Japanese Thrush",0.283396
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:08.00","00:29:11.00","Turdus cardis_Japanese Thrush",0.105010
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:24.00","00:29:27.00","Tolmomyias flaviventris_Yellow-breasted Flycatcher",0.163879
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:27.00","00:29:30.00","Myadestes occidentalis_Brown-backed Solitaire",0.286670
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:29.00","00:29:32.00","Myadestes occidentalis_Brown-backed Solitaire",0.148503
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:34.00","00:29:37.00","Myadestes occidentalis_Brown-backed Solitaire",0.170067
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:35.00","00:29:38.00","Centrocercus urophasianus_Greater Sage-Grouse",0.192451
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:37.00","00:29:40.00","Centrocercus urophasianus_Greater Sage-Grouse",0.314779
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:39.00","00:29:42.00","Ficedula albicollis_Collared Flycatcher",0.153101
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:40.00","00:29:43.00","Ficedula albicollis_Collared Flycatcher",0.335732
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:42.00","00:29:45.00","Ficedula albicollis_Collared Flycatcher",0.110291
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:44.00","00:29:47.00","Myadestes occidentalis_Brown-backed Solitaire",0.441926
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:45.00","00:29:48.00","Myadestes occidentalis_Brown-backed Solitaire",0.279782
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:46.00","00:29:49.00","Myadestes occidentalis_Brown-backed Solitaire",0.578750
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:47.00","00:29:50.00","Myadestes occidentalis_Brown-backed Solitaire",0.160559
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:48.00","00:29:51.00","Myadestes occidentalis_Brown-backed Solitaire",0.559119
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:49.00","00:29:52.00","Myadestes occidentalis_Brown-backed Solitaire",0.156784
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:50.00","00:29:53.00","Myadestes occidentalis_Brown-backed Solitaire",0.145309
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:52.00","00:29:55.00","Myadestes occidentalis_Brown-backed Solitaire",0.169552
+"C:\Users\mghan\Desktop\BirdDetection_BA\audio_48k\2453AC0263FBD00C_20250610_042001_first30min.wav","00:29:59.00","00:30:00.00","Ficedula albicollis_Collared Flycatcher",0.149666

@@ -1,0 +1,63 @@
+2026-01-03 18:42:45 | INFO | --- START Inventory Scan ---
+2026-01-03 18:42:45 | INFO | Konfiguration geladen. Scanne: D:/Samsung SSD 850 EVO extern/wmv
+2026-01-03 18:42:45 | INFO | Scanne Ordner: D:\Samsung SSD 850 EVO extern\wmv
+2026-01-03 18:42:45 | INFO | 427 Dateien gefunden.
+2026-01-03 18:42:45 | ERROR | 2453AC0263FBD00C_20250415_202505 (2).WAV Kritischer Fehler: Dateiname nicht im Schema
+2026-01-03 18:42:45 | ERROR | 2453AC0263FBD00C_20250509_190500.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:45 | ERROR | 2453AC0263FBD00C_20250509_210505.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:45 | ERROR | 2453AC0263FBD00C_20250601_145013.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250614_061505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250614_195000.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250614_215005.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250617_195000.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250617_215005.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250620_204301.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250620_204320.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250630_042000.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250630_062005.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250630_195500.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250630_215505.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250722_213505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250804_212005.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250820_072505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250820_185000.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250820_205005.WAV :Kritischer Fehler: Datei leer
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250904_074505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250904_181500.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | ERROR | 2453AC0263FBD00C_20250904_201505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-03 18:42:46 | INFO | Speichere Inventory (427 Zeilen) nach: outputs\inventory.csv
+2026-01-03 18:42:46 | INFO | ACHTUNG: 23 Anomalien gefunden! Siehe: logs\qc_inventory_anomalies.csv
+2026-01-04 15:28:59 | INFO | Erstelle Sonnen-Referenz (Europe/Berlin) für 2025...
+2026-01-04 15:28:59 | INFO | Check Sommer (21.06.): 2025-06-21 05:16:54.851359 (Erwartet ca. 05:XX)
+2026-01-04 15:28:59 | INFO | Check Winter (21.12.): 2025-12-21 08:35:38.802833 (Erwartet ca. 08:XX)
+2026-01-04 15:28:59 | INFO | Referenztabelle erstellt: outputs\reference_sun.csv
+2026-01-05 13:58:56 | INFO | --- START Inventory Scan ---
+2026-01-05 13:58:56 | INFO | Konfiguration geladen. Scanne: D:/Samsung SSD 850 EVO extern/wmv
+2026-01-05 13:58:56 | INFO | Lade Sonnen-Referenztabelle...
+2026-01-05 13:58:56 | INFO | Scanne Ordner: D:\Samsung SSD 850 EVO extern\wmv
+2026-01-05 13:58:57 | INFO | 427 Dateien gefunden.
+2026-01-05 13:58:58 | ERROR | 2453AC0263FBD00C_20250415_202505 (2).WAV Kritischer Fehler: Dateiname nicht im Schema
+2026-01-05 13:59:00 | ERROR | 2453AC0263FBD00C_20250509_190500.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:00 | ERROR | 2453AC0263FBD00C_20250509_210505.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:01 | ERROR | 2453AC0263FBD00C_20250601_145013.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:01 | ERROR | 2453AC0263FBD00C_20250614_061505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:01 | ERROR | 2453AC0263FBD00C_20250614_195000.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:01 | ERROR | 2453AC0263FBD00C_20250614_215005.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250617_195000.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250617_215005.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250620_204301.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250620_204320.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250630_042000.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250630_062005.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250630_195500.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250630_215505.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:02 | ERROR | 2453AC0263FBD00C_20250722_213505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:03 | ERROR | 2453AC0263FBD00C_20250804_212005.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:04 | ERROR | 2453AC0263FBD00C_20250820_072505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:04 | ERROR | 2453AC0263FBD00C_20250820_185000.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:04 | ERROR | 2453AC0263FBD00C_20250820_205005.WAV :Kritischer Fehler: Datei leer
+2026-01-05 13:59:05 | ERROR | 2453AC0263FBD00C_20250904_074505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:05 | ERROR | 2453AC0263FBD00C_20250904_181500.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:05 | ERROR | 2453AC0263FBD00C_20250904_201505.WAV Kritischer Fehler: Datei ist zu kurz
+2026-01-05 13:59:05 | INFO | Speichere Inventory (427 Zeilen) nach: outputs\inventory.csv
+2026-01-05 13:59:05 | INFO | ACHTUNG: 23 Anomalien gefunden! Siehe: logs\qc_inventory_anomalies.csv

@@ -7,8 +7,8 @@ __pycache__/
 Thumbs.db
 
 # Deine Daten (NICHT hochladen!)
-outputs/
-logs/
+#outputs/
+#logs/
 data/
 *.WAV
 *.wav
